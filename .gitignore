@@ -1,0 +1,17 @@
+__pycache__/
+.idea/
+.DS_Store/
+envw
+
+db.sqlite3
+.env
+
+venv/
+
+.vscode/
+
+node_modules/
+package-lock.json
+
+collected_static/
+CACHE/
